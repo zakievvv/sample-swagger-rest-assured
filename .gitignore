@@ -19,3 +19,8 @@ hs_err_pid*
 target
 .gradle
 build
+.swagger-codegen-ignore
+.allure
+.idea
+.swagger-codegen
+.travis.yml
